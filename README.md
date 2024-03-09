@@ -1,4 +1,4 @@
-## Next Shopify Shopping Cart
+## Next Shopify Toy shop
 
 ### Shopping cart built with React, Next js, Tailwind, and Shopify Store Front Graphql API.
 
