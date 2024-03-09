@@ -5,8 +5,8 @@
 ### Installation
 
 ```
-git clone https://github.com/Nicko57/next-shopify-toy
-cd next-shopify-toy
+git clone https://github.com/Nicko57/shopify-nextjs-toy
+cd shopify-nextjs-toy
 npm install
 npm run dev
 ```
